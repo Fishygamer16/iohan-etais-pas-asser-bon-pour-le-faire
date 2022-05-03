@@ -1,5 +1,6 @@
 {
     "name": "Iohan etais pas asser  bon pour le faire",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
